@@ -11,7 +11,7 @@
     "android/build.gradle",
     "dist/",
     "ios/Plugin/",
-    "CapacitorCommunityContacts.podspec"
+    "CapacitorNelsonContacts.podspec"
   ],
   "author": "",
   "license": "MIT",
