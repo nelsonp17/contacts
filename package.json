@@ -1,5 +1,5 @@
 {
-  "name": "@capacitor-community/contacts",
+  "name": "@capacitor-nelson/contacts",
   "version": "6.0.1",
   "description": "Contacts Plugin for Capacitor",
   "main": "dist/plugin.cjs.js",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/capacitor-community/contacts.git"
+    "url": "git+https://github.com/nelsonp17/contacts.git"
   },
   "bugs": {
-    "url": "https://github.com/capacitor-community/contacts/issues"
+    "url": "https://github.com/nelsonp17/contacts/issues"
   },
   "keywords": [
     "capacitor",
